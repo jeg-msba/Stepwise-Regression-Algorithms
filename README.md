@@ -15,3 +15,8 @@ alpha. An advantage of the backward algorithm is that the final model will have 
 I included two data files which the wrapper reads in to test the algorithm. You can of course use your own data files. xVars is a 
 data file of 28 risk factors leading to death among countries with a Gross National Income less than the mean.
 yhat is the Gross National Income of those countries. The data files have been taken from
+
+Sources
+# https://ourworldindata.org/grapher/number-of-deaths-by-risk-factor
+# https://databank.worldbank.org/reports.aspx?source=2&series=NY.GNP.PCAP.CD&country=
+# https://databank.worldbank.org/reports.aspx?source=2&series=SP.POP.TOTL&country=
